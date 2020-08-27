@@ -6,4 +6,5 @@ const App = () => {
   return <Auth_Stack />;
 };
 // comment
+// comment 2
 export default App;
