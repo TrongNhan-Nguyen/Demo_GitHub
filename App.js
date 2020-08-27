@@ -6,6 +6,7 @@ const App = () => {
     <View>
       <Text>Hà Xuân Dương - Dê</Text>
       <Text>Nguyễn Trọng Nhân 2</Text>
+      <Text>Nguyễn Trọng Nhân 1</Text>
     </View>
   );
 };
