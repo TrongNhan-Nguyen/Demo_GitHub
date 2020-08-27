@@ -11,4 +11,5 @@ const App = () => {
 =======
 // Comment 2
 >>>>>>> 38e2d5cabf1c3c8606c11e682c3c398f530ef810
+//Comment 3
 export default App;
