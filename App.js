@@ -12,6 +12,9 @@ const App = () => {
       <Text>Nguyễn Trọng Nhân 1</Text>
       <Text>Nguyen Thanh Truc hahahahahahahah</Text>
       <Text>Đinh Trọng Quang Đạo</Text>
+        <Text>Ha Xuan Duong demo2</Text>
+        <Text>Ha Xuan Duong demo3</Text>
+
     </View>
   );
 };
